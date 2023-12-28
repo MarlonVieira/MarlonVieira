@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marlon-Delphi" height="30" width="40" src=![image](https://github.com/MarlonVieira/MarlonVieira/assets/62182598/e749c570-da30-4355-b9b3-eb667e3aa28f)>
+  <img align="center" alt="Marlon-Delphi" height="30" width="40" src=https://github.com/MarlonVieira/MarlonVieira/assets/62182598/e749c570-da30-4355-b9b3-eb667e3aa28f.svg>
   <img align="center" alt="Marlon-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="Marlon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Marlon-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
