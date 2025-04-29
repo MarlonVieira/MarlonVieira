@@ -1,4 +1,4 @@
-## Olá! eu sou a Marlon Gabriel Gonçalves Vieira, programador Delphi Back e Front End!
+## Hello! I'm Marlon Gabriel Gonçalves Vieira, an enthusiast of Delphi Back and Front End programming, and a Java student!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marlon-Delphi" height="30" width="40" src=https://github.com/MarlonVieira/MarlonVieira/assets/62182598/e749c570-da30-4355-b9b3-eb667e3aa28f.svg>  
